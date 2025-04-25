@@ -5,8 +5,8 @@ import Shop from "./pages/Shop";
 import Footer from "./components/Footer";
 import Cart from "./pages/Cart";
 import Profile from "./pages/Profile";
-import Details from "./Pages/Details";
-import Navbar from "./Components/Navbar";
+import Details from "./pages/Details";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
