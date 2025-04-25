@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Shop.Co-Front-End-Project
 A modern E-Commerce store interface built with React.js, Tailwind CSS, MUI, and React Icons. All logic and structure were created by me to practice after learning React. Framer Motion was used for animations with some guidance — the rest is fully my own work.
 =======
@@ -20,3 +21,7 @@ If you are developing a production application, we recommend using TypeScript an
 A modern E-Commerce store interface built with React.js, Tailwind CSS, MUI, and React Icons. All logic and structure were created by me to practice after learning React. Framer Motion was used for animations with some guidance — the rest is fully my own work.
 >>>>>>> cbb5f2c371d79582f215822a9087b9a1f19bd145
 >>>>>>> acb3f4c (Initial commit with project files)
+=======
+# Shop.Co-React-E-Commerce-Frontend-UI
+A modern E-Commerce store interface built with React.js, Tailwind CSS, MUI, and React Icons. All logic and structure were created by me to practice after learning React. Framer Motion was used for animations with some guidance — the rest is fully my own work.
+>>>>>>> 36ebbd5afefc48d1809b75ab5029e9b55b9acb46
