@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <motion.section
-      className="bg-zinc-100 py-16 overflow-hidden"
+      className="bg-zinc-100 py-20 overflow-hidden"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 1.2 }}
